@@ -1,3 +1,3 @@
 # TicTacTwoML
 ## Under Development!!
-A learning experience first training ML on TicTacTo and then on a variant of it (TicTacTwo)
+A learning experience first training ML on TicTacToe and then on a variant of it (TicTacTwo)
